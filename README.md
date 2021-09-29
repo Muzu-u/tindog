@@ -71,17 +71,6 @@ I learnt about bootstrap classes and components, such as the carousel one. For e
     </div>
 
   </section>
-
-
-  <!-- Press -->
-
-  <section id="press">
-    <img src="images/techcrunch.png" alt="tc-logo" class="press-logo">
-    <img src="images/tnw.png" alt="tnw-logo" class="press-logo">
-    <img src="images/bizinsider.png" alt="biz-insider-logo" class="press-logo">
-    <img src="images/mashable.png" alt="mashable-logo" class="press-logo">
-
-  </section>
 ```
 I also learnt about organizing the elements in order to see a better looking website.
 
